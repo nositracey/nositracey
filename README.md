@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can help me practise
 - 📫 How to reach me email traceykhumalow@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied electreical engineering (heavy current)
+- ⚡ Fun fact: I studied electrical engineering (heavy current)
 
 <!---
 nositracey/nositracey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
